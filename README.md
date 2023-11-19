@@ -14,14 +14,14 @@ Proyek ini juga memberikan kesempatan bagi pengembang untuk memperdalam pemahama
 
 Dengan menggabungkan matematika dan pemrograman, proyek ini akan memberikan pendekatan pembelajaran yang interaktif dan praktis, yang akan membantu siswa dan pembelajar matematika dalam memahami dan mengaplikasikan konsep matematika secara lebih efektif.
 
-**Rumusan Masalah:**
+# Rumusan Masalah
 
 1. Bagaimana mengimplementasikan rumus faktorial dalam bahasa pemrograman C++?
 2. Bagaimana mengimplementasikan rumus statistika (rata-rata, modus, median) dalam bahasa pemrograman C++?
 3. Bagaimana mengimplementasikan rumus-rumus deret aritmatika (elemen deret, jumlah total) dalam bahasa pemrograman C++?
 4. Bagaimana mengembangkan antarmuka pengguna yang sederhana untuk memasukkan data dan menerima hasil perhitungan?
 
-**Tujuan Akhir Proyek:**
+# Tujuan Akhir Projek
 
 1. Mengembangkan program C++ yang dapat menghitung faktorial dari bilangan yang dimasukkan pengguna.
 2. Menciptakan program C++ yang dapat menghitung statistik dari sejumlah bilangan yang dimasukkan pengguna, termasuk rata-rata, modus, dan median.
