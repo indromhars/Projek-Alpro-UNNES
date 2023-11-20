@@ -4,12 +4,14 @@
 
 using namespace std;
 
+// rumus - rumus faktorial
 int faktorial(int n) {
     if (n <= 1)
         return 1;
     return n * faktorial(n - 1);
 }
 
+// rumus - rumus statistika
 double rataRata(int arr[], int n) {
     int sum = 0;
     for (int i = 0; i < n; i++) {
@@ -45,6 +47,7 @@ double median(int arr[], int n) {
     }
 }
 
+// rumus - rumus deret aritmatika
 int deretAritmatika(int a, int b, int n) {
     return a + (n - 1) * b;
 }
@@ -58,6 +61,7 @@ int nilaiTengah(int a, int n) {
 }
 
 int main() {
+    // deklarasi variabel
     int menu;
     int n;
     int fact;
