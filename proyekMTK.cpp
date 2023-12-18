@@ -149,12 +149,15 @@ int main() {
                 cout << "Masukkan nilai n (bilangan ke-berapa): ";
                 cin >> n;
                 if (subMenu == 1) {
+                    // Urutan bilangan ke berapa
                     Un = deretAritmatika(a, b, n);
                     cout << "Un = " << Un << endl;
                 } else if (subMenu == 2) {
+                    // Jumlah bilangan pertama sampai dengan n
                     Sn = jumlahDeretAritmatika(a, b, n);
                     cout << "Sn = " << Sn << endl;
                 } else if (subMenu == 3) {
+                    // Nilai tengah
                     Ut = nilaiTengah(a, n);
                     cout << "Ut = " << Ut << endl;
                 } else if (subMenu == 4) {
